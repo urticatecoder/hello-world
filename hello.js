@@ -14,5 +14,5 @@ function helloBrowser(){
 function helloStranger(){
   var name = prompt("Please enter your name");
   var pg = document.getElementById('urbad');
-  p.innerHTML = "Hello, " + name;
+  pg.innerHTML = "Hello, " + name;
 }
